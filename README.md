@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website built with modern HTML, CSS, and JavaScript. This website is a showcase of my development skills, projects, and professional journey.
 
-![Hero Section](./images/UserAsset/IMAGE.png) 
+![Hero Section](./Screenshot%202025-04-25%20163209.png)
 
 ---
 
