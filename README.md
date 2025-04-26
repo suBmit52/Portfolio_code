@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website built with modern HTML, CSS, and JavaScript. This website is a showcase of my development skills, projects, and professional journey.
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/suBmit52/Portfolio_code)
+![Screenshot](images/UserAsset/demo.png)
 
 
 ---
@@ -38,7 +38,7 @@ Welcome to my personal portfolio website built with modern HTML, CSS, and JavaSc
 
 ## 📸 Screenshots
   
-![Project Preview](./images/project/Project1.png)
+![Project Preview](images/UserAsset/demo.png)
 
 ---
 
