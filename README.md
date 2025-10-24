@@ -44,7 +44,7 @@ Welcome to my personal portfolio website built with modern HTML, CSS, and JavaSc
 
 ## 🔗 Live Demo
 
-[🌐 View Live Website](#) *(soon to get live)*
+[🌐 View Live Website](#) (https://submit52.github.io/Portfolio_code/)
 
 ---
 
